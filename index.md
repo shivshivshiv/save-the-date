@@ -16,7 +16,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<h1>>Urvi and Shivam</h1>
+				<h1> Urvi and Shivam </h1>
 				<nav>
 					<ul>
 						<li><a href="#intro">Intro</a></li>
