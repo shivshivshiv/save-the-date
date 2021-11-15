@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Urvi & Shivam</title>
+		<title>Big Picture by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -16,14 +16,14 @@
 
 		<!-- Header -->
 			<header id="header">
-				<h1>Urvi & Shivam</h1>
+				<h1>Big Picture</h1>
 				<nav>
 					<ul>
 						<li><a href="#intro">Intro</a></li>
 						<li><a href="#one">What I Do</a></li>
 						<li><a href="#two">Who I Am</a></li>
 						<li><a href="#work">My Work</a></li>
-						<li><a href="#contact">RSVP</a></li>
+						<li><a href="#contact">Contact</a></li>
 					</ul>
 				</nav>
 			</header>
@@ -32,7 +32,7 @@
 			<section id="intro" class="main style1 dark fullscreen">
 				<div class="content">
 					<header>
-						<h2>Save the date.</h2>
+						<h2>Hey.</h2>
 					</header>
 					<p>Welcome to <strong>Big Picture</strong> a responsive site template designed by <a href="https://html5up.net">HTML5 UP</a><br />
 					and released for free under the <a href="https://html5up.net/license">Creative Commons Attribution license</a>.</p>
