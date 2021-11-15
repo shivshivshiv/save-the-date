@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Urvi & Shivam</title>
+		<title>Urvi and Shivam</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -34,7 +34,7 @@
 					<header>
 						<h2>Save the date.</h2>
 					</header>
-					<p>Welcome to <strong>Urvi & Shivam's</strong> big day! Hosted on a responsive site template designed by <a href="https://html5up.net">HTML5 UP</a><br />
+					<p>Welcome to <strong>Urvi and Shivam's</strong> big day. Hosted on a responsive site template designed by <a href="https://html5up.net">HTML5 UP</a><br />
 					and released for free under the <a href="https://html5up.net/license">Creative Commons Attribution license</a>.</p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
